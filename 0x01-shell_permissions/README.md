@@ -1,51 +1,42 @@
-# Shell basics
+# Basic Shell Script re permissions.
+ 
+0. changes your user ID to betty
 
-## From coding these I learned:
-* What is the shell
-* What is the difference between a terminal and a shell
-* What is the shell prompt
-* How to use the history (the basics)
-*Navigation*
-* What do the commands or built-ins cd, pwd, ls do
-* How to navigate the filesystem
-* What are the . and .. directories
-* What is the working directory, how to print it and how to change it
-* What is the root directory
-* What is the home directory, and how to go there
-* What is the difference between the root directory and the home directory of the user root
-* What are the characteristic of hidden files and how to list them
-* What does the command cd - do
-*Looking Around*
-* What do the commands ls, less, file do
-* How do you use options and arguments with commands
-* Understand the ls long format and how to display it
-*A Guided Tour*
-* What does the ln command do
-* What do you find in the most common/important directories
-* What is a symbolic link
-* What is a hard link
-* What is the difference between a hard link and a symbolic link
-*Manipulating Files*
-* What do the commands cp, mv, rm, mkdir do
-* What are wildcards and how do they work
-* How to use wildcards
-*Working With Commands*
-* What do type, which, help, man commands do
-* What are the different kinds of commands
-* What is an alias
-* When do you use the command help instead of man
-*Reading Man Pages*
-* How to read a man page
-* What are man page sections
-* What are the section numbers for User commands, System calls and Library functions
-* Keyboard shortcuts for Bash
-* Common shortcuts for Bash
-*LTS*
-* What does LTS mean?
-*Other*
-* What does RTFM mean?
-* What is a Shebang
-### Built with
+1. prints the effective userid of the current user
+
+2. prints all the groups the current user is part of
+
+3. changes the owner of the file hello to the user betty
+
+4. creates an empty file called hello
+
+5. adds execute permission to the owner of the file hello
+
+6. adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+
+7. adds execution permission to the owner, the group owner and the other users, to the file hello
+
+8. Owner: no permission at all; Group: no permission at all; Other users: all the permissions
+
+9. sets the mode of the file hello to -rwxr-x-wx
+
+10. sets the mode of the file hello the same as olleh’s mode
+
+11. adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
+
+12.  creates a directory called dir_holberton with permissions 751  
+
+13.  changes the group owner to holberton for the file hello
+
+14. changes the owner to betty and the group owner to holberton for all the files and directories in current directory
+
+15. changes the owner and the group owner of the file _ hello to betty and holberton: file _ hello is a symbolic link
+
+16. changes the owner of the file hello to betty only if it is owned by the user guillaume
+
+17. plays the StarWars IV episode in the terminal
+
+## Built with
 * CLI
 * Bash scripts
 * Puppet
