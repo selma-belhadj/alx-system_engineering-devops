@@ -21,7 +21,7 @@
 👤 **Selma Belhadj**
 
 - GitHub: [@selma-belhadj](https://github.com/selma-belhadj)
-- Twitter: [@Bel_Selma16](https://twitter.com/Bel_Selma16)
+- Twitter: [@Bel_Selma16](https://twitter.com/selma_bel_hadj)
 - LinkedIn: [@selma-belhadj](https://www.linkedin.com/in/selma-belhadj/)
 
 ## 🤝 Contributing
@@ -36,10 +36,14 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+All work contained in this project was completed as part of the curriculum for the ALX-SE programme. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com//).
 
+
+<p align="center">
+  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+    alt="ALX Africa Logo"
+  >
+  </p>
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
