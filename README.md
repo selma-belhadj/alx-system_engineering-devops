@@ -44,6 +44,7 @@ All work contained in this project was completed as part of the curriculum for t
     alt="ALX Africa Logo"
   >
   </p>
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
