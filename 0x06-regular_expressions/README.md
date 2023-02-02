@@ -20,8 +20,7 @@ argument passed to it via the command line._
 
 * **2. Repetition Token #1**
   * [2-repetition_token_1.rb](./2-repetition_token_1.rb): Ruby script that matches
-  the regular expression `hn` with 0 or 1 occurrences of `b` and 0 or 1
-  occurrences of `t` in between `h` and `n`.
+  the regular expression `hn` with 0 or 1 occurrences of `b`. 
 
 * **3. Repetition Token #2**
   * [3-repetition_token_2.rb](./3-repetition_token_2.rb): Ruby script that matches
