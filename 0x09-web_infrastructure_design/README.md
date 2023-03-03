@@ -5,9 +5,9 @@
 #### distributed web infrastructure
 ![distributed web infrastructure](https://drive.google.com/file/d/1o9kPLdl7cbVR9-F4fof6qnqOaC0aZwRC/view?usp=share_link)
 #### secured and monitored infrastructure
-![secured and monitored infrastructure](https://i.imgur.com/)
+![secured and monitored infrastructure](https://drive.google.com/file/d/1iwDPmKB1hwGt5-aIhU9n-8ygOKxuEbiv/view?usp=share_link)
 #### scalable infrastructure
-![scalable infrastructure](https://i.imgur.com/)
+![scalable infrastructure](https://drive.google.com/file/d/1MSwS4fokTEZJKa63Rc1KWgtvjiadie9R/view?usp=share_link)
 
 
 ## Built with
