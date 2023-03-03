@@ -1,7 +1,7 @@
 ## Web Infrastructure Design
 > Each file in this repository holds a visual drawing of web infrastructures, from a simple infrastructure, to a distributed infrastructure, to a secured and monitored infrastructure, to a scalable infrastructure. Each builds on the other and/or more components are added on. 
 #### simple web infrastructure
-![simple web infrastructure](https://i.imgur.com/)
+![simple web infrastructure](https://drive.google.com/file/d/12d6r_L-T86G_1Fqn7DAaKnnEEeR7Sije/view?usp=share_link)
 #### distributed web infrastructure
 ![distributed web infrastructure](https://i.imgur.com/)
 #### secured and monitored infrastructure
