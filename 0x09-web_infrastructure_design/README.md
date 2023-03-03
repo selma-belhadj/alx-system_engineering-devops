@@ -3,7 +3,7 @@
 #### simple web infrastructure
 ![simple web infrastructure](https://drive.google.com/file/d/12d6r_L-T86G_1Fqn7DAaKnnEEeR7Sije/view?usp=share_link)
 #### distributed web infrastructure
-![distributed web infrastructure](https://i.imgur.com/)
+![distributed web infrastructure](https://drive.google.com/file/d/1o9kPLdl7cbVR9-F4fof6qnqOaC0aZwRC/view?usp=share_link)
 #### secured and monitored infrastructure
 ![secured and monitored infrastructure](https://i.imgur.com/)
 #### scalable infrastructure
